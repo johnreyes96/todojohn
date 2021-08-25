@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojohn.Common", "todojohn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojohn.Functions", "todojohn.Functions\todojohn.Functions.csproj", "{A1CE97B1-21D1-474D-8D12-D82E7C34CF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todojohn.Test", "todojohn.Test\todojohn.Test.csproj", "{976FF88E-FDE0-4AAE-BE20-7B00CC839016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojohn.Test", "todojohn.Test\todojohn.Test.csproj", "{976FF88E-FDE0-4AAE-BE20-7B00CC839016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
