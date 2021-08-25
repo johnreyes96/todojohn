@@ -10,8 +10,9 @@ using System.IO;
 using System.Threading.Tasks;
 using todojohn.Common.Models;
 using todojohn.Common.Responses;
+using todojohn.Functions.Entities;
 
-namespace todojohn.Functions.Entities.Functions
+namespace todojohn.Functions.Functions
 {
     public static class TodoApi
     {
